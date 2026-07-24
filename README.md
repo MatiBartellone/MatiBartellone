@@ -47,8 +47,6 @@ problems depending on what a project needs.
 
 **Foundations:** distributed systems · operating systems · networks · algorithms · concurrency
 
----
-
 ## 🚀 Featured Projects
 
 ### [Distributed Flight Management System](https://github.com/MatiBartellone/Distributed-Flight-Management-System) &nbsp;`Rust`
@@ -61,15 +59,11 @@ A **Spotify-style music-streaming platform** built as microservices behind an AP
 catalog, playback, playlists, search, recommendations and more, with PostgreSQL, MongoDB and
 Typesense.
 
+### [Money Laundering Analysis](https://github.com/MatiBartellone/money-laundering-analysis) &nbsp;`Python` `RabbitMQ` `Docker`
+A **fault-tolerant distributed system** that processes bank transactions to detect suspicious
+patterns: TCP streaming, a custom RabbitMQ middleware, hash-partitioned workers that scale
+horizontally, and health-check / recovery nodes validated with chaos testing.
+
 ### [SQL Rustico](https://github.com/MatiBartellone/SQLRustico) &nbsp;`Rust`
 A small **SQL engine** with a hand-written parser and a recursive `WHERE` AST, streaming query
 execution over CSV tables, and zero external dependencies.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MatiBartellone&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiBartellone&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=html,css,scss,tex,jupyter%20notebook&exclude_repo=melodia-mobile-app,melodia-backoffice" alt="top langs" />
-</p>
