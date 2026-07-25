@@ -3,8 +3,8 @@
 <p align="center"><b>Computer Engineering student at the University of Buenos Aires (UBA)</b></p>
 
 <p align="center">
-I build software across stacks and like implementing things from scratch — from distributed
-databases to parsers and network protocols — to understand how they actually work.<br/>
+I build software across stacks and like implementing things from scratch, from distributed
+databases to parsers and network protocols, to understand how they actually work.<br/>
 I care more about fundamentals than about any single tool, and I move between languages and
 problems depending on what a project needs.
 </p>
