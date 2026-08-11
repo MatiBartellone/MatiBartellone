@@ -1,69 +1,53 @@
-<h1 align="center">Hi, I'm Matías Bartellone 👋</h1>
+<h1 align="center">Matías Bartellone</h1>
 
 <p align="center"><b>Computer Engineering student at the University of Buenos Aires (UBA)</b></p>
 
 <p align="center">
-I build software across stacks and like implementing things from scratch, from distributed
-databases to parsers and network protocols, to understand how they actually work.<br/>
-I care more about fundamentals than about any single tool, and I move between languages and
-problems depending on what a project needs.
+I like implementing things from scratch to understand how they actually work,<br/>
+and I move between languages and problems depending on what a project needs.
 </p>
 
 <p align="center">
-  <a href="mailto:matias.bartellone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mat%C3%ADas-bartellone-a13a38231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/MatiBartellone"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:matias.bartellone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mat%C3%ADas-bartellone-a13a38231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
-
-## 🧰 Tech Stack
+### Stack
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23%20/%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Backend & Data**
+**Backend & data**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Typesense](https://img.shields.io/badge/Typesense-1A1A2E?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-**Infra & Tools**
+**Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Foundations:** distributed systems · operating systems · networks · algorithms · concurrency
+### Projects
 
-## 🚀 Featured Projects
+**[distributed-database-engine](https://github.com/MatiBartellone/distributed-database-engine)** · Rust<br/>
+A Cassandra-compatible distributed database built from scratch: its own CQL parser, log-structured storage, gossip membership and tunable consistency.
 
-### [Distributed Flight Management System](https://github.com/MatiBartellone/Distributed-Flight-Management-System) &nbsp;`Rust`
-A **Cassandra-compatible distributed database** written from scratch: murmur3 token-ring
-partitioning, tunable consistency, gossip membership, hinted handoff and read repair — with a
-live flight-tracking map on top.
+**[flight-tracking-system](https://github.com/MatiBartellone/flight-tracking-system)** · Rust, React<br/>
+A live flight map served entirely by that cluster, where every value on screen shows the consistency level it was read at.
 
-### [Melodia](https://github.com/MatiBartellone/melodia-microservice-app) &nbsp;`Go` `Python` `Docker`
-A **Spotify-style music-streaming platform** built as microservices behind an API gateway:
-catalog, playback, playlists, search, recommendations and more, with PostgreSQL, MongoDB and
-Typesense.
+**[money-laundering-analysis](https://github.com/MatiBartellone/money-laundering-analysis)** · Python, RabbitMQ<br/>
+A distributed pipeline that keeps producing exactly-once results while its own workers are being killed. Built with one other student.
 
-### [Money Laundering Analysis](https://github.com/MatiBartellone/money-laundering-analysis) &nbsp;`Python` `RabbitMQ` `Docker`
-A **fault-tolerant distributed system** that processes bank transactions to detect suspicious
-patterns: TCP streaming, a custom RabbitMQ middleware, hash-partitioned workers that scale
-horizontally, and health-check / recovery nodes validated with chaos testing.
-
-### [SQL Rustico](https://github.com/MatiBartellone/SQLRustico) &nbsp;`Rust`
-A small **SQL engine** with a hand-written parser and a recursive `WHERE` AST, streaming query
-execution over CSV tables, and zero external dependencies.
+**[Melodia](https://github.com/MatiBartellone/melodia-microservice-app)** · Go, Python, TypeScript<br/>
+A music-streaming platform six of us built as microservices. I wrote the catalog and playback services in Go.
